@@ -1,0 +1,4 @@
+to test to see if a file if a file or dictectory exists use the exists method of the java file class 
+ex file tempDir = new file ("/var/temp")
+boolean exists = tempDir.exist()
+the existing method of the java file class return true if the file or directory exist and flase otherwise  
