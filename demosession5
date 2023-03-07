@@ -1,0 +1,6 @@
+write class convention for java?
+packages : name should be in lopwercase
+classes: name should be in camelcase
+interface :name should be in camelcase
+mehod: name should be in mixed case 
+constants :name should be in uppercase
